@@ -13,9 +13,9 @@ LastOne is Winner!
 
 # How to install
 
-##1. install this repo at server-data/resources folder
+## 1. install this repo at server-data/resources folder
 
-##2. Add under lines to server-data/server.cfg
+## 2. Add under lines to server-data/server.cfg
 
 start Libria_spawner  
 
