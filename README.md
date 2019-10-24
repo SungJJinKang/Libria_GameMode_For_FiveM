@@ -3,13 +3,15 @@ Libria is game mode of GTAV(Fivem)
 
 Players can't identify other players
 
-All players act like npc
+All players act like npc ( disguise as npc )
 
 Players have to find player in npcs
 
-And Kill them
+And Kill them with limited ammo
 
 LastOne is Winner!
+
+( This mode is like Prop hunt, but players disguise as npc not prop )
 
 # How to install
 
