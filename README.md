@@ -11,7 +11,11 @@ And Kill them
 
 LastOne is Winner!
 
-# Add this to server.cfg
+# How to install
+
+##1. install this repo at server-data/resources folder
+
+##2. Add under lines to server-data/server.cfg
 
 start Libria_spawner  
 
